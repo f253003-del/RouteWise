@@ -179,16 +179,9 @@ RouteWise demonstrates how multiple data structures and algorithms can be integr
 
 The project emphasizes efficient data management, priority scheduling, searching, traversal, and shortest-path computation.
 
-## 16. Team Members
 
 
-
-- Name:
-- Roll Number:
-- Name:
-- Roll Number:
-
-## 17. Course Information
+## 16. Course Information
 
 **Course:** CL2001 – Data Structures Lab  
 **Project:** RouteWise – Smart Delivery and Route Optimization System
