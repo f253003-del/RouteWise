@@ -1,0 +1,34 @@
+# RouteWise sample city network
+# LOCATION|name
+# ROAD|from|to|distance_km   (roads are two-way)
+LOCATION|Warehouse
+LOCATION|City Center
+LOCATION|University
+LOCATION|Hospital
+LOCATION|Airport
+LOCATION|Railway Station
+LOCATION|Industrial Area
+LOCATION|Residential Area
+LOCATION|Shopping Mall
+LOCATION|Stadium
+LOCATION|Remote Village
+LOCATION|Farm Depot
+ROAD|Warehouse|City Center|4
+ROAD|Warehouse|Industrial Area|3
+ROAD|Warehouse|Railway Station|7
+ROAD|City Center|University|5
+ROAD|City Center|Hospital|3
+ROAD|City Center|Railway Station|4
+ROAD|University|Airport|9
+ROAD|University|Hospital|4
+ROAD|University|Stadium|10
+ROAD|Hospital|Airport|13
+ROAD|Hospital|Residential Area|6
+ROAD|Railway Station|Airport|12
+ROAD|Railway Station|Residential Area|5
+ROAD|Industrial Area|Railway Station|6
+ROAD|Residential Area|Shopping Mall|4
+ROAD|Shopping Mall|Stadium|3
+ROAD|Stadium|Airport|8
+# A separate island: not connected to the main city (shows "unreachable" and the MST forest)
+ROAD|Remote Village|Farm Depot|6

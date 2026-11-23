@@ -1,0 +1,13 @@
+# tracking|customerId|source|destination|weight_kg|priority(1-5)
+1001|101|Warehouse|Airport|2.5|5
+1002|102|Warehouse|University|1.2|2
+1003|103|Warehouse|Hospital|0.8|4
+1004|101|Warehouse|Residential Area|5.0|1
+1005|104|Warehouse|Railway Station|3.3|3
+1006|105|Industrial Area|Stadium|12.0|2
+1007|106|Warehouse|Shopping Mall|4.1|5
+1008|107|Warehouse|City Center|0.5|1
+1009|102|Warehouse|Stadium|7.7|4
+1010|108|Warehouse|Airport|2.0|3
+1011|103|Warehouse|Remote Village|6.0|2
+1048|105|Railway Station|Hospital|1.0|5

@@ -1,0 +1,11 @@
+
+.vs/
+x64/
+Debug/
+Release/
+*.sdf
+*.opensdf
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
